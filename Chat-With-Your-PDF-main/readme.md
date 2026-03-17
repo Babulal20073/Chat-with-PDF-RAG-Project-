@@ -1,5 +1,4 @@
 
-![cover](https://github.com/user-attachments/assets/6b66d12b-b3b6-4ffa-9ac3-8d31fec295e5)
 
 ## RAG PDF Chatbot
 
@@ -8,10 +7,8 @@ This project is a **Retrieval-Augmented Generation (RAG)**-based AI chatbot, cap
 📄 **Medium Article**: [How to Create a RAG-based PDF Chatbot with LangChain
 ](https://dumanmesut.medium.com/how-to-create-a-rag-based-pdf-chatbot-with-langchain-98f38030f91e)
 
-🤖 **Live Demo**: [RAG PDF Chatbot](https://rag-chat-pdf.streamlit.app/)
 
 ⚙️ **How it Works:**
-![how-it-works](https://github.com/user-attachments/assets/c5a11c23-f9d8-4d96-a4e3-d8f49d6d77c7)
 
 
 📂 **Project Structure:**
@@ -76,7 +73,7 @@ streamlit==1.38.0
 
 📝 **Note**: The chatbot is still in development, and improvements are being made to enhance its performance and capabilities. If you encounter any issues or have suggestions for improvement, please feel free to open an issue submit a pull request, or contact me on LinkedIn.
 
-👨‍💻 **Developed by**: [Mesut Duman](https://www.linkedin.com/in/mesut-duman/)
+👨‍💻 **Developed by**: [Babu lal Dudi]
 
 📄 **License**: This project is licensed under the Apache License 2.0.
 
